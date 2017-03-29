@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Hangman()
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ Hangman\n
+comment1.params=
+comment1.target=boolean\ getFinished()
+comment2.params=
+comment2.target=java.util.ArrayList\ getWordAnswer()
+comment3.params=
+comment3.target=java.util.ArrayList\ getWordGuess()
+comment4.params=
+comment4.target=java.lang.String\ randomWord()
+comment4.text=\n\ Selects\ a\ random\ word\ from\ the\ dictionary\ and\ stores\ it\ in\ an\ arraylist\n
+comment5.params=
+comment5.target=void\ printUnderscores()
+comment5.text=\n\ print\ underscores\ equal\ to\ the\ length\ of\ chosen\ word\n
+comment6.params=word
+comment6.target=void\ addWord(java.lang.String)
+comment6.text=\n\ add\ chosen\ word\ to\ arraylist\n
+comment7.params=s
+comment7.target=void\ checkGuess(java.lang.String)
+comment7.text=\n\ Replace\ underscores\ with\ a\ correctly\ guessed\ letter\n
+comment8.params=
+comment8.target=int\ checkWrong()
+numComments=9
