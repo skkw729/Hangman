@@ -16,7 +16,7 @@ public class Dictionary
      */
     public Dictionary() throws FileNotFoundException
     {
-        textFile = new Scanner(new FileReader("//Users//stephen//Desktop//words.txt"));
+        textFile = new Scanner(new FileReader("words.txt"));
         words = new ArrayList<>();
     }
 
